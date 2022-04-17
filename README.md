@@ -1,6 +1,6 @@
 # discord-bot-cryptocurrency
 
-With the use of a discord bot, it will create and send custom graph of : a crypto, in a currency, for a period, whith an intreval
+With the use of a discord bot, it will create and send custom graph of : a crypto, in a currency, for a period, with an intreval
 
 ## Setup
 
