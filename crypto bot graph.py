@@ -10,7 +10,9 @@ import plotly.graph_objects as go
 
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
-ID = os.getenv('channel ID')
+
+if not os.path.exists("images"):
+    os.mkdir("images")
 
 bot = commands.Bot(command_prefix='!!')
 
