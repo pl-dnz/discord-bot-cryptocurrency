@@ -12,7 +12,7 @@ With the use of a discord bot, it will create and send custom graph of : a crypt
 > You can paste this command into the terminal
 
 ```
-pip install discord yfinance plotly
+pip install discord yfinance plotly kaleido
 ```
 > You have to create a folder **images** or the program will make it.
 
